@@ -1,2 +1,2 @@
 # laravel-blog
-Ejercicio Bolg en Laravel
+Ejercicio Blog en Laravel
